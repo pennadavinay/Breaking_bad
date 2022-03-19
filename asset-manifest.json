@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Breaking_bad/static/css/main.a055755f.css",
+    "main.js": "/Breaking_bad/static/js/main.1d20147a.js",
+    "static/media/bg.jpg": "/Breaking_bad/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "static/media/logo.png": "/Breaking_bad/static/media/logo.e6ecab4407f10ecd02bd.png",
+    "index.html": "/Breaking_bad/index.html",
+    "main.a055755f.css.map": "/Breaking_bad/static/css/main.a055755f.css.map",
+    "main.1d20147a.js.map": "/Breaking_bad/static/js/main.1d20147a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a055755f.css",
+    "static/js/main.1d20147a.js"
+  ]
+}
